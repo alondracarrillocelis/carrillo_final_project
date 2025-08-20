@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "base": "https://alondracarrillocelis.github.io/carrillo_final_project/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
